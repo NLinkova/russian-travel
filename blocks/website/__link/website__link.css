@@ -1,16 +1,15 @@
-.header__lang-link {
-  text-decoration: none;
+.website__link {
+
   font-style: normal;
   font-weight: normal;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 18px;
+  line-height: 22px;
   color: #FFFFFF;
   transition: opacity 0.2s linear;
   opacity: 1;
 }
 
-.header__lang-link:hover {
+.website__link:hover {
   opacity: 0.5;
 }
-
 
