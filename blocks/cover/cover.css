@@ -2,7 +2,7 @@
   margin: 0 auto 92px;
   max-width: 92.5%;
   min-height: 740px;
-  display: flex;
+  position: relative;
 
 }
 
