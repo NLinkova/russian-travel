@@ -8,3 +8,10 @@
     margin: 92px auto 0 48px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .intro {
+    max-width: 720px;
+    margin: 88px 24px 0;
+  }
+}
