@@ -1,5 +1,10 @@
 .intro {
-  max-width: 53.9%;
-  margin: 92px auto auto 148px;
-  box-sizing: content-box;
+  max-width: 690px;
+  margin: 92px auto 0 148px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro {
+    margin: 92px auto 0 48px;
+  }
 }

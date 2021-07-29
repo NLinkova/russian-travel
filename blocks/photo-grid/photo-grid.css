@@ -2,7 +2,15 @@
   max-width: 92.5%;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(3, 1fr);
   margin: 92px auto;
   gap: 16px;
 }
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    max-width: 90.63%;
+    grid-template-columns: repeat(3, 1fr);
+    /*grid-template-rows: repeat(4, 1fr);*/
+  }
+}
+
