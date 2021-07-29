@@ -1,9 +1,9 @@
 @media screen and (max-width: 320px) {
-  .footer__links_margin {
+  .footer__links_margin_null {
     margin-bottom: 32px;
   }
 
-  .footer__links_margin:last-of-type {
+  .footer__links_margin_null:last-of-type {
     margin-bottom: 0px;
   }
 }
