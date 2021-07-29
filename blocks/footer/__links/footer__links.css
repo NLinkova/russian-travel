@@ -5,3 +5,11 @@
   display: flex;
   justify-content: start;
 }
+
+@media screen and (max-width: 320px) {
+  .footer__links {
+    display: inline-block;
+    min-height: 248px;
+  }
+}
+

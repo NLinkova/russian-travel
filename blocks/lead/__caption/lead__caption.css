@@ -14,3 +14,9 @@
     margin: 8px auto 0 24px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .lead__caption {
+    margin: 8px auto 0 16px;
+  }
+}

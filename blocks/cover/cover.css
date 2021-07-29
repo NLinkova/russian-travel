@@ -17,7 +17,15 @@
   .cover {
     max-width: 768px;
     max-height: 480px;
-    margin: 90px auto;
+    margin: 90px auto 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    max-width: 320px;
+    max-height: 200px;
+    margin: 66px auto 64px;
   }
 }
 

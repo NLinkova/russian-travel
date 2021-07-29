@@ -10,6 +10,11 @@
   margin-right: 0;
 }
 
+.place:last-of-type {
+  margin-bottom: 0;
+}
+
+
 @media screen and (max-width: 1024px) {
   .place {
     grid-template-columns: 47.41% 49.13%;
@@ -22,6 +27,16 @@
     grid-template-columns: 340px 352px;
     column-gap: 28px;
     margin-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    grid-template-columns: repeat(1, 1fr);
+    margin-bottom: 50px;
+    row-gap: 32px;
+
+
 
   }
 }
