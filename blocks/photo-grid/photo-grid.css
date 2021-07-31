@@ -24,13 +24,12 @@
 @media screen and (max-width: 767px) {
   .photo-grid {
     max-width: 90%;
-    margin: 64px 16px;
+    margin: 64px auto;
   }
 }
 
 @media screen and (max-width: 500px) {
   .photo-grid {
-    max-width: 90%;
-    grid-template-columns: 1, 1fr;
+    grid-template-columns: 1fr;
   }
 }
