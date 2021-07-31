@@ -8,19 +8,19 @@
   margin: 245px auto 0;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .cover__title {
     margin: 195px auto 0;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .cover__title {
     margin: 115px auto 0;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover__title {
     font-size: 32px;
     line-height: 35px;

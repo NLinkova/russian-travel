@@ -8,10 +8,31 @@
   text-rendering: optimizeLegibility;
 }
 
+@media screen and (max-width: 767px) {
+  .intro__title {
+    font-size: 50px;
+    line-height: 50px;
+    max-width: 90%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .intro__title {
+    font-size: 42px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .intro__title {
+    font-size: 38px;
+    line-height: 38px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .intro__title {
     font-size: 32px;
     line-height: 35px;
-    max-width: 288px;
   }
 }

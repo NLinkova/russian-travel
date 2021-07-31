@@ -7,17 +7,16 @@
   flex-direction: row;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .footer {
     margin: 0 24px 24px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .footer {
-    max-width: 186px;
+    max-width: 58.12%;
     margin: 64px auto 24px 16px;
     flex-direction: column;
-
   }
 }
