@@ -23,4 +23,4 @@
 Сайт открывается во всех браузерах. Версия html, lang="ru", charset="UTF-8".
 
 ### Ссылка на сайт
-https://nlinkova.github.io/russian-travel/index.html
+https://nlinkova.github.io/russian-travel/
