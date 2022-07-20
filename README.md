@@ -20,6 +20,6 @@ The site implements such functions as block positioning, scaling, grid and flex 
 The project can be used as an example of the layout and implementation of CSS properties for educational purposes.
 The site opens in all browsers. HTML version, lang="ru", charset="UTF-8".
 
-### Ссылка на сайт
+### Link
 
 https://nlinkova.github.io/russian-travel/
