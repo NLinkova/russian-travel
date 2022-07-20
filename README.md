@@ -1,26 +1,25 @@
-# Проект: Путешествие по России
+# Project: Traveling in Russia
 
-### Обзор
-* Описание проекта
-* Figma
-* Функциональность
-* Инструция по использованию
-* Ссылка на сайт
+### Review
 
-### Описание проекта
-Этот сайт является проектной работой №3 студента курса "Веб-девелопмент" ЯндексПрактикума. В ходе создания сайта отрабатываются знание по веб-разработке, полученные по время третьего спринта в тренажере. Контент сайта содержит информацию о туристических природных местах России. Макет сайта находится на сайте Figma.
+- Project Description
+- Functionality
+- Instructions for use
+- Link
 
+### Description of the project
 
-### Figma
+This site is project work No. 3 of a student of the course "Web development" of Yandex Practicum. The content of the site contains information about tourist natural places in Russia.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+### Functionality
 
-### Функциональность
-На сайте реализованы такие функции как: позиционирование блоков, масштабирование, грид и флекс контейнеры, ссылки, применение оверлея и др. Реализованы несколько версий веб-сайта для разных разрешений экрана: 1280, 1024, 768 и 320 пикселей.
+The site implements such functions as block positioning, scaling, grid and flex containers, links, overlays, etc. Several versions of the website are implemented for different screen resolutions: 1280, 1024, 768 and 320 pixels.
 
-### Инструция по использованию
-Проект может быть использован как пример вёрстки и реальзации свойст CSS в образовательных целях.
-Сайт открывается во всех браузерах. Версия html, lang="ru", charset="UTF-8".
+### Instructions for use
+
+The project can be used as an example of the layout and implementation of CSS properties for educational purposes.
+The site opens in all browsers. HTML version, lang="ru", charset="UTF-8".
 
 ### Ссылка на сайт
+
 https://nlinkova.github.io/russian-travel/
