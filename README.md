@@ -1,4 +1,4 @@
-# Project: Traveling in Russia
+# Project: Travelling in Russia
 
 ### Review
 
